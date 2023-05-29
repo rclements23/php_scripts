@@ -1,0 +1,2 @@
+parseInt converts a string into an integer.
+parseFloat converts a string into a float (this means a number with decimal places).
